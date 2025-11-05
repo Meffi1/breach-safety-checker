@@ -31,3 +31,9 @@ Python утилита для проверки безопасности email и 
 ```bash
 git clone https://github.com/your-username/breach-safety-checker.git
 cd breach-safety-checker
+
+##
+
+2. Запусти файл: Starting file
+```bash 
+python checker.py
