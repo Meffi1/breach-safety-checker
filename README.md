@@ -32,7 +32,7 @@ Python утилита для проверки безопасности email и 
 git clone https://github.com/your-username/breach-safety-checker.git
 cd breach-safety-checker
 
-##
+## 🛠 Установка
 
 2. Запусти файл: Starting file
 ```bash 
